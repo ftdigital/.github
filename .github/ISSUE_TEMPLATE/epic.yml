@@ -1,0 +1,15 @@
+name: Epic
+description: Add a epic
+title: "[Epic]: "
+labels: ["epic"]
+projects: ["ftdigital/2"]
+assignees:
+  - freektimmer
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Epic description
+    validations:
+      required: true
