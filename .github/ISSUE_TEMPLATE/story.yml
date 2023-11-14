@@ -8,10 +8,8 @@ assignees:
 body:
   - type: textarea
     id: description
-    wysiwyg: true,
     attributes:
       label: Description
       placeholder: Story description
-      render: markdown
     validations:
       required: true
