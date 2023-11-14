@@ -11,5 +11,7 @@ body:
     attributes:
       label: Description
       placeholder: Epic description
+      value: |
+        - [ ] As a user
     validations:
       required: true
