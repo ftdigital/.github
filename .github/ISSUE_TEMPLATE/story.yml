@@ -1,7 +1,7 @@
-name: As a user...
+name: Story
 description: Add a story
 title: "[Story]: "
-labels: ["bug"]
+labels: ["story"]
 projects: ["ftdigital/2"]
 assignees:
   - freektimmer
@@ -10,9 +10,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: Story description
       render: markdown
     validations:
       required: true
