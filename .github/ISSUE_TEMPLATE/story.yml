@@ -1,6 +1,6 @@
 name: Story
 description: Add a story
-title: "[Story]: "
+title: "[Story]: As a user ..."
 labels: ["story"]
 projects: ["ftdigital/2"]
 assignees:
@@ -11,6 +11,5 @@ body:
     attributes:
       label: Description
       placeholder: Story description
-      value: As a user
     validations:
       required: true
