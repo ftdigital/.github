@@ -11,5 +11,6 @@ body:
     attributes:
       label: Description
       placeholder: Story description
+      value: As a user
     validations:
       required: true
