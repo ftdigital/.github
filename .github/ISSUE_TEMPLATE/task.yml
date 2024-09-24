@@ -1,0 +1,15 @@
+name: Task
+description: Add a task
+title: "[Task]: "
+labels: ["task"]
+projects: ["ftdigital/2"]
+assignees:
+  - freektimmer
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      placeholder: Task description
+    validations:
+      required: false
