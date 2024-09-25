@@ -1,7 +1,7 @@
-name: Task
-description: Add a task
-title: "[Task]: "
-labels: ["task"]
+name: Feature
+description: Add a new feature
+title: "feature/"
+labels: ["type: feature"]
 projects: ["ftdigital/2"]
 assignees:
   - freektimmer
@@ -10,6 +10,6 @@ body:
     id: description
     attributes:
       label: Description
-      placeholder: Task description
+      placeholder: Feature description
     validations:
       required: false

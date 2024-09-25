@@ -1,7 +1,7 @@
-name: Epic
-description: Add a epic
-title: "[Epic]: "
-labels: ["epic"]
+name: Hotfix Report
+description: File a Hotfix report
+title: "Hotfix/"
+labels: ["type: hotfix"]
 projects: ["ftdigital/2"]
 assignees:
   - freektimmer
@@ -10,8 +10,6 @@ body:
     id: description
     attributes:
       label: Description
-      placeholder: Epic description
-      value: |
-        - [ ] As a user
+      placeholder: Hotfix description
     validations:
       required: true

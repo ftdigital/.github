@@ -1,7 +1,7 @@
-name: Story
-description: Add a story
-title: "[Story]: As a user ..."
-labels: ["story"]
+name: Docs
+description: Add docs
+title: "docs/"
+labels: ["type: documentation"]
 projects: ["ftdigital/2"]
 assignees:
   - freektimmer
@@ -10,6 +10,6 @@ body:
     id: description
     attributes:
       label: Description
-      placeholder: Story description
+      placeholder: Documentation description
     validations:
       required: true
