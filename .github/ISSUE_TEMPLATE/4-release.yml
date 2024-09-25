@@ -1,6 +1,6 @@
 name: Release
 description: Add a release
-title: "/release"
+title: "release: "
 labels: ["type: release"]
 projects: ["ftdigital/2"]
 assignees:

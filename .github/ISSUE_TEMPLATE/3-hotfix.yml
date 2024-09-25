@@ -1,6 +1,6 @@
 name: Hotfix Report
 description: File a Hotfix report
-title: "Hotfix/"
+title: "hotfix: "
 labels: ["type: hotfix"]
 projects: ["ftdigital/2"]
 assignees:
