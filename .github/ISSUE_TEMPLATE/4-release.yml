@@ -1,6 +1,5 @@
 name: Release
 description: Add a release
-title: ""
 labels: ["type: release"]
 projects: ["ftdigital/2"]
 assignees:

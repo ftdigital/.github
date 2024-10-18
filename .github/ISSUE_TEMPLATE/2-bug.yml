@@ -1,6 +1,5 @@
 name: Bug Report
 description: File a bug report
-title: ""
 labels: ["type: bug"]
 projects: ["ftdigital/2"]
 assignees:

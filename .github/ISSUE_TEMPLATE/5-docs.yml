@@ -1,6 +1,5 @@
 name: Docs
 description: Add docs
-title: ""
 labels: ["type: documentation"]
 projects: ["ftdigital/2"]
 assignees:
