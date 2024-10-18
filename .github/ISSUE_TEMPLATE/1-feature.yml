@@ -1,6 +1,6 @@
 name: Feature
 description: Add a new feature
-title: "feature: "
+title: ""
 labels: ["type: feature"]
 projects: ["ftdigital/2"]
 assignees:

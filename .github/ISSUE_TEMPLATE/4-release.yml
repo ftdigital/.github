@@ -1,6 +1,6 @@
 name: Release
 description: Add a release
-title: "release: "
+title: ""
 labels: ["type: release"]
 projects: ["ftdigital/2"]
 assignees:
@@ -12,4 +12,4 @@ body:
       label: Description
       placeholder: Release description
     validations:
-      required: true
+      required: false

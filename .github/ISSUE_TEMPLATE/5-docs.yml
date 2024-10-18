@@ -1,6 +1,6 @@
 name: Docs
 description: Add docs
-title: "docs: "
+title: ""
 labels: ["type: documentation"]
 projects: ["ftdigital/2"]
 assignees:
@@ -12,4 +12,4 @@ body:
       label: Description
       placeholder: Documentation description
     validations:
-      required: true
+      required: false
